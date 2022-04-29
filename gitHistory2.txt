@@ -1,1 +1,7 @@
+HEAD
+
 who is git very usefull for?
+
+ok.I add it again to gitSeminarBranch
+
+gitSeminarBranch
